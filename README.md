@@ -1,7 +1,7 @@
 <h1 align="center">System_Verilog Practice and Projects</h1>
 <br/>
 <p align="center">
-  <img src="https://blogs.sw.siemens.com/wp-content/uploads/sites/54/2020/07/SystemVerilog-.png" alt="perl" width="60" height="60"/>
+  <img src="https://blogs.sw.siemens.com/wp-content/uploads/sites/54/2020/07/SystemVerilog-.png" alt="perl" width="100" height="100"/>
 </p>
 
 
